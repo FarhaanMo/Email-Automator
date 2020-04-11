@@ -1,6 +1,6 @@
 # Email-Automator
 
-A Python Script made using the smtplib module which sends the email to another specified account 
+A Python Script made by using the smtplib module which sends the email to another specified account 
 
 -- pip install smtplib
 
